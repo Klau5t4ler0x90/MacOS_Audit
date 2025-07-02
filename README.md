@@ -62,9 +62,6 @@ python3 MacOS_Audit.py -p YourPassword --exploit --linpeas
 
 Contributions, ideas, and additional checks are welcome! Create an issue or submit a pull request.
 
-## 📜 License
-
-MIT License © Your Name
 
 ---
 
